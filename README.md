@@ -6,7 +6,7 @@
 - 뷰어 상에는 최근 5개만 보이도록 구성
 - 업데이트 로그 파일을 생성하면, 무조건 이 git에 푸시하기
 - 파일 네이밍
-  - Project/{VS 프로젝트 이름}/Release 1.0.0.md
-  - Project/HappyGram/Release 1.0.0.md
+    - Project/{VS 프로젝트 이름}/Release 1.0.0.md
+    - Project/HappyGram/Release 1.0.0.md
 - 프로젝트 저장 네이밍
-  - History/Release 1.0.0.md
+    - History/Release 1.0.0.md
