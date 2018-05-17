@@ -1,3 +1,41 @@
+
+# YNTL PC Print Program 20180412 Release
+
+## 변경사항
+ - Bold 옵션 제거
+
+
+
+
+
+# YNTL PC Print Program 20180326 Release
+
+## 변경사항
+ - 라이센스 인증 필요 없음
+ - 네트워크 인증 필요 없음 ( 팀뷰어 제외 )
+
+
+
+
+
+# YNTL PC Print Program 20180316 Release
+
+## 변경사항
+ - 라이센스 인증 관련 오류 및 로직 수정
+
+
+
+
+
+# YNTL PC Print Program 20180306 Release
+
+## 변경사항
+ - 라이센스를 한번 인증 받고나면 한달간 네트워크를 이용해 라이센스를 체크하지 않도록 변경
+
+
+
+
+
 # YNTL PC Print Program 20180112 Release
 
 ## 변경사항
@@ -9,21 +47,8 @@
 
 
 
-# YNTL PC Print Program 20180306 Release
-
-## 변경사항
- - 라이센스를 한번 인증 받고나면 한달간 네트워크를 이용해 라이센스를 체크하지 않도록 변경
 
 
 
-# YNTL PC Print Program 20180316 Release
-
-## 변경사항
- - 라이센스 인증 관련 오류 및 로직 수정
 
 
-# YNTL PC Print Program 20180326 Release
-
-## 변경사항
- - 라이센스 인증 필요 없음
- - 네트워크 인증 필요 없음 ( 팀뷰어 제외 )
