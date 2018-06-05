@@ -1,3 +1,13 @@
+# Happy Name Sticker Character 3.1.1 Release
+
+## 변경사항
+
+ - 클라이언트의 달력에 판매 정보가 제대로 표기되지 않던 현상 수정
+
+
+
+
+
 # Happy Name Sticker Character 3.1.0 Release
 
 ## 변경사항
